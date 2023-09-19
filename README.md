@@ -42,7 +42,7 @@ git clone https://github.com/your_username/beware.git
 Go to the Firebase Console and create a new project. Download the google-services.json and place it in the app directory.
 
 3. Google Maps API Key:
-Go to the Google Cloud Platform Console. Create a new API key and restrict it for Android apps. In the AndroidManifest.xml, replace APIKEY with your actual API key.
+Go to the Google Cloud Platform Console. Create a new API key and restrict it for Android apps. In the AndroidManifest.xml, replace "APIKEY" with your actual API key.
 
 4. Build and Run:
 Open the project in Android Studio. Build and run the app on an emulator or actual device.
