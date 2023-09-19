@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "686220167913",
+    "project_id": "beware-f953e",
+    "storage_bucket": "beware-f953e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686220167913:android:0734fffa026f8220cabe78",
+        "android_client_info": {
+          "package_name": "com.example.beware"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "686220167913-p9idcceoei4m3b8ci6i41b96efebgp8m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIG5HuPRhgfaYanhtGGnwhCgfDATYas2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "686220167913-p9idcceoei4m3b8ci6i41b96efebgp8m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
